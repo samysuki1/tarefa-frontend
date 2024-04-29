@@ -63,7 +63,7 @@ export default function LoginPage() {
         w-80 
       `}
       >
-        Evocando conexão entre as dimensões ambiental, social e de governo
+        Boas práticas promovendo hábitos saudáveis e cuidados com a nossa terra.
       </p>
       <form onSubmit={form.handleSubmit(onSubmit)}>
         <div

@@ -36,7 +36,7 @@ export default function LoginLayout({ children }) {
                 self-end
             `}
         >
-          Primeiro Acesso
+          Painel de Login
         </p>
         {children}
       </div>
